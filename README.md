@@ -1,4 +1,4 @@
-# 🏦 Hadoop Banking Transaction Analyzer
+# 🏦 Hadoop Banking Transaction Analyser
 
 A scalable data engineering and analytics project built using **Python**, **Hadoop (HDFS)**, **PySpark**, and **Power BI**, simulating large-scale banking transactions.
 
